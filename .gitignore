@@ -1,0 +1,14 @@
+*.jpg
+*.zip
+*.pt
+*.pth
+*.jpeg
+*.png
+*.csv
+*.xml
+*.yml
+*.iml
+*.tar
+*.tar.gz
+*.pyc
+.git
